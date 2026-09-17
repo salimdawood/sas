@@ -107,7 +107,7 @@ const CONFIG = {
 };
 
 const EMAILJS_CONFIG = {
-  serviceId: "service_k3y94j3",
+  serviceId: "service_6qhd0sa",
   templateId: "template_mnj21pm",
   publicKey: "7so75PsrCSu35_SJ-"
 };
